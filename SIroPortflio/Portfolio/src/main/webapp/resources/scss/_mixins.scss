@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+@import "_variables";
+
+// Clear float
+@mixin clearfix {
+    clear: both;
+    display: table;
+    content: "";
+}
+
+// Centerize
+@mixin centerize($horizontal: false, $vertical: false) {
+    position: absolute;
+
+    @if ($horizontal and $vertical) {
+        top: 50%;
+        left: 50%;
+        @include transform( translate(-50%, -50%) );
+    } @else if ($horizontal) {
+        left: 50%;
+        @include transform( translate(-50%, 0) );
+    } @else if ($vertical) {
+        top: 50%;
+        @include transform( translate(0, -50%) );
+    }
+}
+
+// Scale by Golden Ratio
+$golden-ratio: (1 + sqrt(5)) / 2;
+$alt-ratio: 7 / 6;
+
+@function modular-scale($value, $iteration: 0) {
+
+    @if $iteration > 0 {
+        @for $i from 1 through $iteration {
+            $value: $value * $golden-ratio;
+        }
+    }
+    @else if $iteration < 0 {
+        @for $i from 1 through $iteration * -1 {
+            $value: $value / $alt-ratio;
+        }
+    }
+
+    @return $value;
+}
+
+// Scale font size based on the golden ratio
+@mixin text-scale($interval: 0) {
+    font-size: round( modular-scale($base-font-size, $interval) );
+}
+
+// add background mask on mouse over
+@mixin ui-hover-background {
+    position: relative;
+
+    &::after {
+        background-color: rgba(black, .08);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 0;
+        content: "";
+        transition: height .3s;
+    }
+
+    &:hover {
+        text-decoration: none;
+
+        &::after {
+            height: 50%;
+        }
+    }
+}
+
+// Add short border under the text
+@mixin chic-border($color: $picton-blue) {
+    $width: 1.25em;
+
+    padding-bottom: .25em;
+    position: relative;
+
+    &::after {
+        background: $color;
+        border-radius: .25em;
+        display: block;
+        width: $width;
+        height: 2px;
+        margin-left: $width * -0.5;
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        content: "";
+    }
+}

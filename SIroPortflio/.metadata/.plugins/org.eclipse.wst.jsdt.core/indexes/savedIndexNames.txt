@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/SiroYG/Documents/GitHub/SIroPortflio/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3700153226.index
+900234910.index
+326700308.index
+3700153226.index
+2135302061.index
+2270612618.index
+2429138500.index
+1784400185.index
