@@ -316,7 +316,7 @@
                     <article role="article" id="work2" class="gallery-item" data-animation="fade-right">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example2.png" alt="대한민국 기상청 랜딩 페이지" aria-describedby="work2Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example2.png" alt="宿泊予約ウェブサイト" aria-describedby="work2Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title">[テーマ基盤]宿泊予約ウェブサイト</h3>
@@ -347,17 +347,17 @@
                                 <tr>
                                     <td data-th="Category"><span class="categ html">JSP</span></td>
                                     <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/Project%20Yolo%20/8)YOLO_Project_System_file/WebContent/index.jsp" target="_blank">index.jsp</a></td>
-                                    <td data-th="Related Keywords">HTML5, ARIA, SVG</td>
+                                    <td data-th="Related Keywords">HTML5, CSS , JSP , Servlet</td>
                                 </tr>
                                 <tr>
                                     <td data-th="Category"><span class="categ css">PPT</span></td>
                                     <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/Project%20Yolo%20/5)Yolo%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C.pptx" target="_blank">画面設計図</a></td>
-                                    <td data-th="Related Keywords">CSS3, Sass, Compass</td>
+                                    <td data-th="Related Keywords">Modal, PopUp, Google Map API</td>
                                 </tr>
                                 <tr>
                                     <td data-th="Category"><span class="categ js">DB</span></td>
                                     <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/Project%20Yolo%20/4)ER_DIer.png" target="_blank">ER Dier</a></td>
-                                    <td data-th="Related Keywords">JSON</td>
+                                    <td data-th="Related Keywords">Oracle 11g</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -367,7 +367,7 @@
                     <article role="article" id="work3" class="gallery-item" data-animation="fade-left">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example5.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example5.png" alt="Smart薬箱" aria-describedby="work3Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title">お年寄りと在宅患者のためのSmart薬箱</h3>
@@ -397,14 +397,19 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td data-th="Category"><span class="categ js"> DB </span></td>
-                                    <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/SiroMusicPlayer/KakaoTalk_20190605_104044225.png" target="_blank">ER Dier</a></td>
-                                    <td data-th="Related Keywords">Oracle 11g, DB DierGram</td>
+                                    <td data-th="Category"><span class="categ js"> IoT </span></td>
+                                    <td data-th="Source"><a href="https://prezi.com/p/ifxbgqjtygew/aa/" target="_blank">RazzberryPie , Sensor</a></td>
+                                    <td data-th="Related Keywords">Razzberry Pi , Pursesensor , speaker, Infrared sensor</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">Java</span></td>
-                                    <td data-th="Source"><a href="#" target="_blank">Pure Java</a></td>
-                                    <td data-th="Related Keywords">Java</td>
+                                    <td data-th="Category"><span class="categ css">Android</span></td>
+                                    <td data-th="Source"><a href="https://prezi.com/p/ifxbgqjtygew/aa/" target="_blank">Android Application Pic</a></td>
+                                    <td data-th="Related Keywords">Java , AndroidGUI </td>
+                                </tr>
+                          <tr>
+                                    <td data-th="Category"><span class="categ js"> 3D Print </span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/SmartPill/Docu/3d%20modeling2.PNG" target="_blank">3D Print Modeling</a></td>
+                                    <td data-th="Related Keywords">Pill Case Modeling 3d Print 設置</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -414,7 +419,7 @@
                     <article role="article" id="work3" class="gallery-item" data-animation="fade-right">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example6.png" alt="스켈레탭스의 데모" aria-describedby="work4Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example6.png" alt="MusicPlayer" aria-describedby="work4Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title">MusicPlayer.Java</h3>
@@ -430,8 +435,6 @@
                                 </div>
                                 <ul class="ui-group">
                                     <li class="ui-group-item ui-dropdown-holder">
-                                        <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/SiroMusicPlayer" aria-expanded="false" aria-haspopup="true">Demo</a>
-                                    </li>
                                     <li class="ui-group-item">
                                         <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/SiroMusicPlayer/src" target="_blank">Repos</a>
                                     </li>
@@ -454,7 +457,7 @@
                                 </tr>
                                 <tr>
                                     <td data-th="Category"><span class="categ css">Java</span></td>
-                                    <td data-th="Source"><a href="#" target="_blank">Pure Java</a></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/tree/master/SiroMusicPlayer/src" target="_blank">Pure Java</a></td>
                                     <td data-th="Related Keywords">Java</td>
                                 </tr>
                             </tbody>
@@ -465,7 +468,7 @@
                     <article role="article" id="work5" class="gallery-item" data-animation="fade-left">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example7.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example7.png" alt="Smart Bank" aria-describedby="work3Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title"> Smart Bank System</h3>
@@ -481,18 +484,18 @@
                                         <a role="button" id="work3DemoDropdown" class="ui-button ui-dropdown-trigger" href="#" aria-expanded="false" aria-haspopup="true">Demo</a>
                                         <ul role="menu" class="ui-dropdown" aria-labelledby="work3DemoDropdown">
                                             <li role="presentation" class="ui-dropdown-item">
-                                                <a role="menuitem" href="./Portfolio-MovieSite/" target="_blank" tabindex="-1">Main page</a>
+                                                <a role="menuitem" href="http://13.209.47.61:8090/bank/" target="_blank" tabindex="-1">Main page</a>
                                             </li>
                                             <li role="presentation" class="ui-dropdown-item">
-                                                <a role="menuitem" href="./Portfolio-MovieSite/movie.html" target="_blank" tabindex="-1">Info page</a>
+                                                <a role="menuitem" href="http://13.209.47.61:8090/bank/loginForm" target="_blank" tabindex="-1">Login page</a>
                                             </li>
                                             <li role="presentation" class="ui-dropdown-item">
-                                                <a role="menuitem" href="./Portfolio-MovieSite/order.html" target="_blank" tabindex="-1">Order page</a>
+                                                <a role="menuitem" href="http://13.209.47.61:8090/bank/" target="_blank" tabindex="-1">interceptor</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="ui-group-item">
-                                        <a role="button" class="ui-button" href="https://github.com/findawayer/Portfolio-MovieSite/tree/gh-pages" target="_blank">Repos</a>
+                                        <a role="button" class="ui-button" href="https://github.com/SiroYG/GoodDeV/tree/SoloProject/SiroProject" target="_blank">Repos</a>
                                     </li>
                                 </ul>
                             </figcaption>
@@ -507,54 +510,44 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/index.html" target="_blank">index.html</a></td>
-                                    <td data-th="Related Keywords">HTML5</td>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/blob/SoloProject/SiroProject/src/main/webapp/WEB-INF/views/index.jsp" target="_blank">index.jsp</a></td>
+                                    <td data-th="Related Keywords">JSP Main index</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/movie.html" target="_blank">movie.html</a></td>
-                                    <td data-th="Related Keywords">HTML5</td>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/SoloProject/SiroProject/src/main/webapp/WEB-INF/views/member" target="_blank">Member Views</a></td>
+                                    <td data-th="Related Keywords">JSP Member views</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/order.html" target="_blank">order.html</a></td>
-                                    <td data-th="Related Keywords">HTML5</td>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/SoloProject/SiroProject/src/main/webapp/WEB-INF/views/board" target="_blank">Board Views</a></td>
+                                    <td data-th="Related Keywords">JSP Board Views</td>
+                                </tr>
+                                 <tr>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/SoloProject/SiroProject/src/main/webapp/WEB-INF/views/account" target="_blank">Account Views</a></td>
+                                    <td data-th="Related Keywords">JSP Account Views</td>
+                                </tr>
+                          	  <tr>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/SoloProject/SiroProject/src/main/webapp/WEB-INF/views/admin" target="_blank">Admin Views</a></td>
+                                    <td data-th="Related Keywords">JSP Admin Views</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/less/style.less" target="_blank">style.less</a></td>
-                                    <td data-th="Related Keywords">CSS3, LESS</td>
+                                    <td data-th="Category"><span class="categ css">Java</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/SoloProject/SiroProject/src/main/java/com/seschool/bank" target="_blank">Java Logics</a></td>
+                                    <td data-th="Related Keywords">Mapping, Java Function Logics</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/tree/gh-pages/less/partials" target="_blank">LESS partials</a></td>
-                                    <td data-th="Related Keywords">CSS3, LESS, Responsive</td>
+                                    <td data-th="Category"><span class="categ js">DB</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/blob/SoloProject/SiroProject/src/main/resources/ERD/SiroBank_SQL.sql" target="_blank">SQL</a></td>
+                                    <td data-th="Related Keywords"> Oracle 11g,  <a href="https://github.com/SiroYG/GoodDeV/tree/SoloProject/SiroProject/src/main/resources/mapper" target="_blank">Mappers</a> , <a href="https://github.com/SiroYG/GoodDeV/blob/SoloProject/SiroProject/src/main/resources/ERD/Employee.erm" target="_blank">ERdiaGram</a></td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/less/dhtmlxcalendar_material_dark.less" target="_blank">dhtmlxcalendar material dark.less</a></td>
-                                    <td data-th="Related Keywords">CSS3, LESS</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/common.js" target="_blank">common.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="http://hammerjs.github.io/" target="_blank">HammerJS</a></td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/movie.js" target="_blank">movie.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="https://developers.google.com/youtube/iframe_api_reference" target="_blank">YouTube Iframe Player</a>, <a href="https://dhtmlx.com/docs/products/dhtmlxCalendar/" target="_blank">dhtmlXCalendar</a>, starRate(자작)</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/plugins/starRate/starRate.js" target="_blank">starRate.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/order.js" target="_blank">order.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1</td>
+                                    <td data-th="Category"><span class="categ js">AWS</span></td>
+                                    <td data-th="Source"><a href="http://13.209.47.61:8090/bank/" target="_blank">Server</a></td>
+                                    <td data-th="Related Keywords"> AWS Server Online , Database Online</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -564,7 +557,7 @@
                     <article role="article" id="work2" class="gallery-item" data-animation="fade-right">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example2.png" alt="대한민국 기상청 랜딩 페이지" aria-describedby="work2Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example2.png" alt="Clawd Funding" aria-describedby="work2Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title">　Clawd Funding Systemz (進行中) </h3>
@@ -578,8 +571,9 @@
                                     <p>Spring FrameWorkベースのWebプロジェクトであり、Oracle 11g DBとJavaを含め、JavaScript、jQuery、ajaxを使用し、特許庁の公共DB APIをJason方式と呼ばれてきてDBに保存し、PythonのSelenium FrameWorkのウェブクローリングを通じて市場調査が可能な機能がある。</p>
                                 </div>
                                 <div class="ui-group">
-                                    <a role="button" class="ui-button" href="./Portfolio-KMA/" target="_blank">Demo</a>
-                                    <a role="button" class="ui-button" href="https://github.com/findawayer/Portfolio-KMA/tree/gh-pages" target="_blank">Repos</a>
+                                    <a role="button" class="ui-button" href="http://13.209.47.61:8090/GoodDeV/" target="_blank">Demo</a>
+                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/GoodDeV/tree/GoodDeV_Project_CloudFunding/ProjectFold" target="_blank">Repos</a>
+                                	 <a role="button" class="ui-button" href="https://github.com/SiroYG/GoodDeV/tree/GoodDeV_Project_CloudFunding/Documents" target="_blank">Document</a>
                                 </div>
                             </figcaption>
                         </figure>
@@ -593,9 +587,14 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/index.html" target="_blank">index.html</a></td>
-                                    <td data-th="Related Keywords">HTML5, ARIA, SVG</td>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/blob/GoodDeV_Project_CloudFunding/ProjectFold/GoodDeV/src/main/webapp/WEB-INF/views/index.jsp" target="_blank">index.jsp</a></td>
+                                    <td data-th="Related Keywords">HTML5, JSP, index</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/GoodDeV_Project_CloudFunding/ProjectFold/GoodDeV/src/main/webapp/WEB-INF/views" target="_blank">JSP_Views</a></td>
+                                    <td data-th="Related Keywords">HTML5, CSS, JSP, JSTL, JavaScript, JQuery, Ajax </td>
                                 </tr>
                                 <tr>
                                     <td data-th="Category"><span class="categ css">CSS</span></td>
@@ -608,19 +607,19 @@
                                     <td data-th="Related Keywords">CSS3, Sass, Compass, CSS sprite</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Category"><span class="categ js">DB</span></td>
                                     <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/common.js" target="_blank">common.js</a></td>
                                     <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="https://modernizr.com/" target="_blank">Modernizr</a></td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Category"><span class="categ js">AWS</span></td>
                                     <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/main.js" target="_blank">main.js</a></td>
                                     <td data-th="Related Keywords">JavaScript, jQuery 1, jQuery UI, AJAX</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ js">JSON</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/json/meteo.json" target="_blank">meteo.json</a></td>
-                                    <td data-th="Related Keywords">JSON</td>
+                                    <td data-th="Category"><span class="categ js">Python</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/json/meteo.json" target="_blank">WebCrolling</a></td>
+                                    <td data-th="Related Keywords">Python, WebCrolling, selenium FrameWork</td>
                                 </tr>
                             </tbody>
                         </table>
