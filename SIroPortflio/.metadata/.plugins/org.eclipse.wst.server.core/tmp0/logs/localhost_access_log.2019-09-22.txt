@@ -203,3 +203,12 @@
 0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:17:21 +0900] "GET /siro/resources/img/example6.png HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:17:21 +0900] "GET /siro/resources/img/example7.png HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:17:21 +0900] "GET /siro/resources/img/favicons/favicon.ico HTTP/1.1" 200 15086
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:54:17 +0900] "GET /siro/ HTTP/1.1" 200 68769
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:54:18 +0900] "GET /siro/resources/img/example2.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:54:18 +0900] "GET /siro/resources/img/example1.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:54:18 +0900] "GET /siro/resources/img/example5.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:54:18 +0900] "GET /siro/resources/img/example6.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:54:18 +0900] "GET /siro/resources/img/example7.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:54:18 +0900] "GET /siro/resources/img/favicons/favicon.ico HTTP/1.1" 200 15086
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:55:06 +0900] "GET /siro/ HTTP/1.1" 200 68807
+0:0:0:0:0:0:0:1 - - [22/Sep/2019:23:55:07 +0900] "GET /siro/resources/img/favicons/favicon.ico HTTP/1.1" 200 15086

@@ -330,8 +330,8 @@
                                     <p>oracle 11gのjdbcを使用してデータベースを連動し、グーグルマップなどのAPIを使用して地図機能などを追加しました。</p>
                                 </div>
                                 <div class="ui-group">
-                                    <a role="button" class="ui-button" href="./Portfolio-KMA/" target="_blank">Demo</a>
-                                    <a role="button" class="ui-button" href="https://github.com/findawayer/Portfolio-KMA/tree/gh-pages" target="_blank">Repos</a>
+                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20" target="_blank">Document</a>
+                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20/8)YOLO_Project_System_file" target="_blank">Repos</a>
                                 </div>
                             </figcaption>
                         </figure>
@@ -345,33 +345,18 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/index.html" target="_blank">index.html</a></td>
+                                    <td data-th="Category"><span class="categ html">JSP</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/Project%20Yolo%20/8)YOLO_Project_System_file/WebContent/index.jsp" target="_blank">index.jsp</a></td>
                                     <td data-th="Related Keywords">HTML5, ARIA, SVG</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/scss/style.scss" target="_blank">style.scss</a></td>
+                                    <td data-th="Category"><span class="categ css">PPT</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/Project%20Yolo%20/5)Yolo%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C.pptx" target="_blank">画面設計図</a></td>
                                     <td data-th="Related Keywords">CSS3, Sass, Compass</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/tree/gh-pages/scss/partials" target="_blank">Sass partials</a></td>
-                                    <td data-th="Related Keywords">CSS3, Sass, Compass, CSS sprite</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/common.js" target="_blank">common.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="https://modernizr.com/" target="_blank">Modernizr</a></td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/main.js" target="_blank">main.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, jQuery UI, AJAX</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JSON</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/json/meteo.json" target="_blank">meteo.json</a></td>
+                                    <td data-th="Category"><span class="categ js">DB</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/Project%20Yolo%20/4)ER_DIer.png" target="_blank">ER Dier</a></td>
                                     <td data-th="Related Keywords">JSON</td>
                                 </tr>
                             </tbody>
