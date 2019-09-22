@@ -397,72 +397,11 @@
                                         </ul>
                                     </li>
                                     <li class="ui-group-item">
-                                        <a role="button" class="ui-button" href="https://github.com/findawayer/Portfolio-MovieSite/tree/gh-pages" target="_blank">Repos</a>
-                                    </li>
+                                        <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/blob/master/SmartPill/1224.1152%EC%82%BC%EC%8B%9C%EC%84%B8%EC%95%8C%EC%A4%80%EC%B5%9C%EC%A2%85.pptx" target="_blank">PPT</a>
+                                   </li>
                                 </ul>
                             </figcaption>
                         </figure>
-                        <table class="gallery-table">
-                            <thead>
-                                <tr>
-                                    <th class="gallery-table-col category">Category</th>
-                                    <th class="gallery-table-col source">Source</th>
-                                    <th class="gallery-table-col keywords">Related keywords</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/index.html" target="_blank">index.html</a></td>
-                                    <td data-th="Related Keywords">HTML5</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/movie.html" target="_blank">movie.html</a></td>
-                                    <td data-th="Related Keywords">HTML5</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/order.html" target="_blank">order.html</a></td>
-                                    <td data-th="Related Keywords">HTML5</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/less/style.less" target="_blank">style.less</a></td>
-                                    <td data-th="Related Keywords">CSS3, LESS</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/tree/gh-pages/less/partials" target="_blank">LESS partials</a></td>
-                                    <td data-th="Related Keywords">CSS3, LESS, Responsive</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/less/dhtmlxcalendar_material_dark.less" target="_blank">dhtmlxcalendar material dark.less</a></td>
-                                    <td data-th="Related Keywords">CSS3, LESS</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/common.js" target="_blank">common.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="http://hammerjs.github.io/" target="_blank">HammerJS</a></td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/movie.js" target="_blank">movie.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="https://developers.google.com/youtube/iframe_api_reference" target="_blank">YouTube Iframe Player</a>, <a href="https://dhtmlx.com/docs/products/dhtmlxCalendar/" target="_blank">dhtmlXCalendar</a>, starRate(자작)</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/plugins/starRate/starRate.js" target="_blank">starRate.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/order.js" target="_blank">order.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1</td>
-                                </tr>
-                            </tbody>
-                        </table>
                     </article>
 
                     <!-- 포트폴리오 엔트리: MusicPlayer.Java -->
