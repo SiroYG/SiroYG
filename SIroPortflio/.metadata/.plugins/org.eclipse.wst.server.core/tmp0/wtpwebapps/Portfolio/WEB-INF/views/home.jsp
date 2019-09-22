@@ -286,7 +286,7 @@
                 
                 <div id="portfolio" class="section-content gallery alternate">
 
-                    <!-- 포트폴리오 엔트리: 예술의 전당 -->
+                    <!-- 포트폴리오 엔트리: 샐러드 주문 시스템 셀러 -->
                     <article role="article" id="work1" class="gallery-item" data-animation="fade-left">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
@@ -347,28 +347,22 @@
                         </table>
                     </article>
 
-                    <!-- 포트폴리오 엔트리: 기상청 -->
+                    <!-- 포트폴리오 엔트리: 욜로 여행예약 사이트 -->
                     <article role="article" id="work2" class="gallery-item" data-animation="fade-right">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
                                 <img class="gallery-image-thumb" src="/siro/resources/img/example2.png" alt="대한민국 기상청 랜딩 페이지" aria-describedby="work2Description">
                             </div>
                             <figcaption class="gallery-caption">
-                                <h3 class="gallery-title">대한민국 기상청 랜딩 페이지</h3>
+                                <h3 class="gallery-title">[テーマ基盤]宿泊予約ウェブサイト</h3>
                                 <ul class="gallery-spec">
-                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">Viewport</strong> <span class="gallery-spec-value">데스크탑</span></li>
-                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">IE support</strong> <span class="gallery-spec-value">IE8+</span></li>
-                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">Palette</strong>
-                                        <ul class="gallery-spec-value palette">
-                                            <li class="palette-item" data-tooltip="Bright Cerulean" style="background: #30a3da;"><span class="sr-only">Bright Cerulean</span></li>
-                                            <li class="palette-item" data-tooltip="Platinum" style="background: #e3e3e3;"><span class="sr-only">Platinum</span></li>
-                                            <li class="palette-item" data-tooltip="Light Gray" style="background: #d2d2d2;"><span class="sr-only">Light Gray</span></li>
-                                        </ul>
-                                    </li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">開発期間</strong> <span class="gallery-spec-value"> 1ヶ月</span></li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> Team Leader / 総括</span></li>
+            						 <li class="gallery-spec-item"><strong class="gallery-spec-key">参加人数</strong> <span class="gallery-spec-value">５人</span></li>
                                 </ul>
                                 <div id="work2Description">
-                                    <p><a href="http://www.kma.go.kr/index.jsp" target="_blank">기상청</a> 사이트의 대문을 리뉴얼해 보았습니다. 인터페이스용 그림에는 SVG를 적극적으로 활용했고, 백업 png를 병용했습니다.</p>
-                                    <p>공공기관 사이트로서 보다 많은 사용자 환경에 대응하기 위해 익스플로러 8까지의 호환성 지원, 웹 접근성 관리가 되어 있습니다.</p>
+                                    <p>テーマ基盤の宿泊予約サイトがあまり少なく作ったウェブサイト、YOLOと呼ばれる検索に気を使わないyolo族と、早く休暇を願う忙しいサラリーマンをターゲットにしています。</p>
+                                    <p>oracle 11gのjdbcを使用してデータベースを連動し、グーグルマップなどのAPIを使用して地図機能などを追加しました。</p>
                                 </div>
                                 <div class="ui-group">
                                     <a role="button" class="ui-button" href="./Portfolio-KMA/" target="_blank">Demo</a>
@@ -419,30 +413,24 @@
                         </table>
                     </article>
 
-                    <!-- 포트폴리오 엔트리: 영화 사이트 -->
+                    <!-- 포트폴리오 엔트리: 스마트 필즈 -->
                     <article role="article" id="work3" class="gallery-item" data-animation="fade-left">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
                                 <img class="gallery-image-thumb" src="/siro/resources/img/example3.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
                             </div>
                             <figcaption class="gallery-caption">
-                                <h3 class="gallery-title">오리지널 영화 사이트</h3>
+                                <h3 class="gallery-title">お年寄りと在宅患者のためのSmart薬箱</h3>
                                 <ul class="gallery-spec">
-                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">Viewport</strong> <span class="gallery-spec-value">모바일</span></li>
-                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">Palette</strong>
-                                        <ul class="gallery-spec-value palette">
-                                            <li class="palette-item" data-tooltip="Raisin Black" style="background: #1f2124;"><span class="sr-only">Raisin Black</span></li>
-                                            <li class="palette-item" data-tooltip="Gunmetal" style="background: #2c2f34;"><span class="sr-only">Gunmetal</span></li>
-                                            <li class="palette-item" data-tooltip="Roman Silver" style="background: #8a9099;"><span class="sr-only">Roman Silver</span></li>
-                                            <li class="palette-item" data-tooltip="Vivid Cerulean" style="background: #00aeef;"><span class="sr-only">Vivid Cerulean</span></li>
-                                            <li class="palette-item" data-tooltip="Deep Lemon" style="background: #f0c91e;"><span class="sr-only">Deep Lemon</span></li>
-                                        </ul>
-                                    </li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">開発期間</strong> <span class="gallery-spec-value"> 1ヶ月</span></li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> IoT, Android Corder,3D Modeling</span></li>            						 <li class="gallery-spec-item"><strong class="gallery-spec-key">参加人数</strong> <span class="gallery-spec-value">５人</span></li>                               
                                 </ul>
                                 <div id="work3Description">
-                                    <p>오리지널 영화 정보 및 예매사이트를 모바일 전용으로 구성해 보았습니다. <b>영화 목록 페이지</b>, <b>특정 영화 정보 페이지</b>, <b>티켓 예매 페이지</b> 3가지 샘플을 포함하고 있습니다.</p>
-                                    <p>기기별 기본 UX를 최대한 유지하기 위해 검색상자나 선택상자 등은 네이티브 형식을 사용했으며, 유튜브의 트레일러 영상 불러오기, 날짜 선택기 등의 기능이 추가돼 있습니다.</p>
+                                    <p>一人暮らしの老人、患者のために薬を飲む時間をアラームでチェックし、投薬の有無を保護者にアラームを送るサービス。</p>
+                                    <p>3D modelingを使用して薬筒を作って、薬筒の中にいる多くのセンサーが投薬を確認する。</p>
                                 </div>
+                                	<p>アンドロイドを使って保護者にアラームなどを提供し、パルスセンサーを通じて心拍数を時々チェックする機能がある。</p>
+                                
                                 <ul class="ui-group">
                                     <li class="ui-group-item ui-dropdown-holder">
                                         <a role="button" id="work3DemoDropdown" class="ui-button ui-dropdown-trigger" href="#" aria-expanded="false" aria-haspopup="true">Demo</a>
@@ -527,21 +515,23 @@
                         </table>
                     </article>
 
-                    <!-- 포트폴리오 엔트리: Skeletabs -->
+                    <!-- 포트폴리오 엔트리: MusicPlayer.Java -->
                     <article role="article" id="work3" class="gallery-item" data-animation="fade-right">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
                                 <img class="gallery-image-thumb" src="/siro/resources/img/example4.png" alt="스켈레탭스의 데모" aria-describedby="work4Description">
                             </div>
                             <figcaption class="gallery-caption">
-                                <h3 class="gallery-title">다목적 탭스 플러그인</h3>
+                                <h3 class="gallery-title">MusicPlayer.Java</h3>
                                 <ul class="gallery-spec">
-                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">Category</strong> <span class="gallery-spec-value">jQuery 플러그인</span></li>
-                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">IE support</strong> <span class="gallery-spec-value">IE8+</span></li>
-                                </ul>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">開発期間</strong> <span class="gallery-spec-value"> 1週</span></li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> 全部</span></li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">技術 </strong> <span class="gallery-spec-value"> PureJava_JavaCUI</span></li>
+            						 <li class="gallery-spec-item"><strong class="gallery-spec-key">参加人数</strong> <span class="gallery-spec-value">1人(SoloProject)</span></li>
+                             </ul>
                                 <div id="work4Description">
-                                    <p>웹 접근성 및 폭넓은 커스터마이징에 초점을 맞춘 jQuery용 탭스 플러그인입니다. 활성화 및 비활성화할 탭의 선택이나 사용자 셀렉터 설정 같은 기본적인 설정은 물론, 반응형 아코디언 레이아웃 및 자동재생 기능을 갖추고 있어 아코디언 또는 캐루셀로도 응용 가능합니다.</p>
-                                    <p>마크업의 접근성은 물론 키보드 사용자를 위한 키보드 내비게이션 강화로 보다 넓은 사용자층을 타깃으로 하는 프로젝트에 사용할 수 있으며, 기본으로 제공되는 애니메이션 효과 이외에도 손쉬운 애니메이션 커스터마이징을 가능하게 해 크리에이티브한 디자인에도 적용할 수 있습니다.</p>
+                                    <p>簡単なメモ機能と特定フォルダーの中に保存された音楽がプレーできる機能を持つCUIプログラム。メモを管理でき、プレーリストのあるその他のミュージックプレーヤーのように、音楽追加、音楽削除、プレイリストの登録、削除などの機能を持っている。</p>
+                                    <p>Oracle 11g jdbc DBとJavaのロジックを使用しており、音楽は位置値を通じて保存する。 簡単な音楽プレーヤーとして機能を持ったプログラムである。</p>
                                 </div>
                                 <ul class="ui-group">
                                     <li class="ui-group-item ui-dropdown-holder">
@@ -581,6 +571,171 @@
                                     <td data-th="Category"><span class="categ css">SCSS</span></td>
                                     <td data-th="Source"><a href="https://github.com/findawayer/Skeletabs/blob/master/src/scss/skeletabs.theme.default.scss" target="_blank">skeletabs.theme.default.scss</a></td>
                                     <td data-th="Related Keywords">CSS, Sass</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </article>
+                    
+                        <!-- 포트폴리오 엔트리: Smart Bank -->
+                    <article role="article" id="work3" class="gallery-item" data-animation="fade-left">
+                        <figure role="group" class="gallery-figure">
+                            <div class="gallery-image">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example3.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
+                            </div>
+                            <figcaption class="gallery-caption">
+                                <h3 class="gallery-title"> Smart Bank System</h3>
+                                <ul class="gallery-spec">
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">開発期間</strong> <span class="gallery-spec-value"> 1ヶ月</span></li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> 1人＿SoloProject </span>             </ul>
+                                <div id="work3Description">
+                                    <p>バンキングシステムを模倣して作ったプロジェクト バンキングシステムの主要機能は他のバンキングシステムと同じである。 口座開設、振込み、QnA掲示板などの機能を持ち、admin/admin(固有アカウント)でいったん特定されているIDにアクセスすればadminページにアクセスすることができる。 アドミンのアカウントでは、答文、融資承認などの機能が可能になっているbankシステム。</p>
+                                    <p>SPRING FRAMEWORKベースのWebプロジェクトであり、Oracle 11g DBとJavaを含め、JavaScript、jQuery、ajaxなどの技術を使用した。</p>
+                                </div>
+                                <ul class="ui-group">
+                                    <li class="ui-group-item ui-dropdown-holder">
+                                        <a role="button" id="work3DemoDropdown" class="ui-button ui-dropdown-trigger" href="#" aria-expanded="false" aria-haspopup="true">Demo</a>
+                                        <ul role="menu" class="ui-dropdown" aria-labelledby="work3DemoDropdown">
+                                            <li role="presentation" class="ui-dropdown-item">
+                                                <a role="menuitem" href="./Portfolio-MovieSite/" target="_blank" tabindex="-1">Main page</a>
+                                            </li>
+                                            <li role="presentation" class="ui-dropdown-item">
+                                                <a role="menuitem" href="./Portfolio-MovieSite/movie.html" target="_blank" tabindex="-1">Info page</a>
+                                            </li>
+                                            <li role="presentation" class="ui-dropdown-item">
+                                                <a role="menuitem" href="./Portfolio-MovieSite/order.html" target="_blank" tabindex="-1">Order page</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="ui-group-item">
+                                        <a role="button" class="ui-button" href="https://github.com/findawayer/Portfolio-MovieSite/tree/gh-pages" target="_blank">Repos</a>
+                                    </li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <table class="gallery-table">
+                            <thead>
+                                <tr>
+                                    <th class="gallery-table-col category">Category</th>
+                                    <th class="gallery-table-col source">Source</th>
+                                    <th class="gallery-table-col keywords">Related keywords</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td data-th="Category"><span class="categ html">HTML</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/index.html" target="_blank">index.html</a></td>
+                                    <td data-th="Related Keywords">HTML5</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ html">HTML</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/movie.html" target="_blank">movie.html</a></td>
+                                    <td data-th="Related Keywords">HTML5</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ html">HTML</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/order.html" target="_blank">order.html</a></td>
+                                    <td data-th="Related Keywords">HTML5</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">CSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/less/style.less" target="_blank">style.less</a></td>
+                                    <td data-th="Related Keywords">CSS3, LESS</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">CSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/tree/gh-pages/less/partials" target="_blank">LESS partials</a></td>
+                                    <td data-th="Related Keywords">CSS3, LESS, Responsive</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">CSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/less/dhtmlxcalendar_material_dark.less" target="_blank">dhtmlxcalendar material dark.less</a></td>
+                                    <td data-th="Related Keywords">CSS3, LESS</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/common.js" target="_blank">common.js</a></td>
+                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="http://hammerjs.github.io/" target="_blank">HammerJS</a></td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/movie.js" target="_blank">movie.js</a></td>
+                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="https://developers.google.com/youtube/iframe_api_reference" target="_blank">YouTube Iframe Player</a>, <a href="https://dhtmlx.com/docs/products/dhtmlxCalendar/" target="_blank">dhtmlXCalendar</a>, starRate(자작)</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/plugins/starRate/starRate.js" target="_blank">starRate.js</a></td>
+                                    <td data-th="Related Keywords">JavaScript, jQuery 1</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-MovieSite/blob/gh-pages/js/order.js" target="_blank">order.js</a></td>
+                                    <td data-th="Related Keywords">JavaScript, jQuery 1</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </article>
+                    
+                          <!-- 포트폴리오 엔트리:　Clawd Funding Systemz -->
+                    <article role="article" id="work2" class="gallery-item" data-animation="fade-right">
+                        <figure role="group" class="gallery-figure">
+                            <div class="gallery-image">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example2.png" alt="대한민국 기상청 랜딩 페이지" aria-describedby="work2Description">
+                            </div>
+                            <figcaption class="gallery-caption">
+                                <h3 class="gallery-title">　Clawd Funding Systemz (進行中) </h3>
+                                <ul class="gallery-spec">
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">開発期間</strong> <span class="gallery-spec-value"> 1ヶ月(進行中)</span></li>
+                                    <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> Team Leader / 総括+ R&D , MiddleSide</span></li>
+            						 <li class="gallery-spec-item"><strong class="gallery-spec-key">参加人数</strong> <span class="gallery-spec-value">4人</span></li>
+                                </ul>
+                                <div id="work2Description">
+                                    <p>クラウドファンディングという形を目指すサイト。 自分が消費者でありながら創業者になれる。 クラウドファンディングは小規模投資を通じて特許を持つ創業者を支援し、これを物品または投資対比収益を得ることができる仕組みを指す。 特許庁APIを通じて特許を確認/評価できる機能があり、クロリングを通じてショッピング側に出ている市場を調査することができる。 また、評価を通じて商品価値を評価でき、これによって創業者は小規模な投資が集まって創業を始め、小規模な投資家はそれに伴う利益と楽しさを得ることができる。</p>
+                                    <p>Spring FrameWorkベースのWebプロジェクトであり、Oracle 11g DBとJavaを含め、JavaScript、jQuery、ajaxを使用し、特許庁の公共DB APIをJason方式と呼ばれてきてDBに保存し、PythonのSelenium FrameWorkのウェブクローリングを通じて市場調査が可能な機能がある。</p>
+                                </div>
+                                <div class="ui-group">
+                                    <a role="button" class="ui-button" href="./Portfolio-KMA/" target="_blank">Demo</a>
+                                    <a role="button" class="ui-button" href="https://github.com/findawayer/Portfolio-KMA/tree/gh-pages" target="_blank">Repos</a>
+                                </div>
+                            </figcaption>
+                        </figure>
+                        <table class="gallery-table">
+                            <thead>
+                                <tr>
+                                    <th class="gallery-table-col category">Category</th>
+                                    <th class="gallery-table-col source">Source</th>
+                                    <th class="gallery-table-col keywords">Related keywords</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td data-th="Category"><span class="categ html">HTML</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/index.html" target="_blank">index.html</a></td>
+                                    <td data-th="Related Keywords">HTML5, ARIA, SVG</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">CSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/scss/style.scss" target="_blank">style.scss</a></td>
+                                    <td data-th="Related Keywords">CSS3, Sass, Compass</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">CSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/tree/gh-pages/scss/partials" target="_blank">Sass partials</a></td>
+                                    <td data-th="Related Keywords">CSS3, Sass, Compass, CSS sprite</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/common.js" target="_blank">common.js</a></td>
+                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="https://modernizr.com/" target="_blank">Modernizr</a></td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js">JS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/main.js" target="_blank">main.js</a></td>
+                                    <td data-th="Related Keywords">JavaScript, jQuery 1, jQuery UI, AJAX</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js">JSON</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/json/meteo.json" target="_blank">meteo.json</a></td>
+                                    <td data-th="Related Keywords">JSON</td>
                                 </tr>
                             </tbody>
                         </table>

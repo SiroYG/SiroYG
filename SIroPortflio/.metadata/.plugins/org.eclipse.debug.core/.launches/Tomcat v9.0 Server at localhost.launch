@@ -8,6 +8,6 @@
     <booleanAttribute key="org.eclipse.jdt.launching.DEFAULT_CLASSPATH" value="false"/>
     <stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 10.0.2 [10.0.2]"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="start"/>
-    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dcatalina.base=&quot;/Users/SiroYG/Documents/GitHub/SIroPortflio/.metadata/.plugins/org.eclipse.wst.server.core/tmp0&quot; -Dcatalina.home=&quot;/Users/SiroYG/Documents/Tool/apache-tomcat-9.0.22&quot; -Dwtp.deploy=&quot;/Users/SiroYG/Documents/GitHub/SIroPortflio/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps&quot;"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dcatalina.base=&quot;/Users/SiroYG/Documents/GitHub/EngineerSiro/SIroPortflio/.metadata/.plugins/org.eclipse.wst.server.core/tmp0&quot; -Dcatalina.home=&quot;/Users/SiroYG/Documents/Tool/apache-tomcat-9.0.22&quot; -Dwtp.deploy=&quot;/Users/SiroYG/Documents/GitHub/EngineerSiro/SIroPortflio/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps&quot;"/>
     <stringAttribute key="server-id" value="Tomcat v9.0 Server at localhost"/>
 </launchConfiguration>
