@@ -557,7 +557,7 @@
                     <article role="article" id="work2" class="gallery-item" data-animation="fade-right">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example2.png" alt="Clawd Funding" aria-describedby="work2Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example10.png" alt="Clawd Funding" aria-describedby="work2Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title">　Clawd Funding Systemz (進行中) </h3>
@@ -597,28 +597,28 @@
                                     <td data-th="Related Keywords">HTML5, CSS, JSP, JSTL, JavaScript, JQuery, Ajax </td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/scss/style.scss" target="_blank">style.scss</a></td>
-                                    <td data-th="Related Keywords">CSS3, Sass, Compass</td>
+                                    <td data-th="Category"><span class="categ css">Java</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/GoodDeV_Project_CloudFunding/ProjectFold/GoodDeV/src/main/java/com/dev/cloud" target="_blank">Function.Java</a></td>
+                                    <td data-th="Related Keywords">Controller, DAO, VO , Repository, Interface</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/tree/gh-pages/scss/partials" target="_blank">Sass partials</a></td>
-                                    <td data-th="Related Keywords">CSS3, Sass, Compass, CSS sprite</td>
+                                    <td data-th="Category"><span class="categ css">SQL</span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/GoodDeV_Project_CloudFunding/ProjectFold/GoodDeV/src/main/resources/mappers" target="_blank">Mappers</a></td>
+                                    <td data-th="Related Keywords">Mappers, SQL for Function </td>
                                 </tr>
                                 <tr>
                                     <td data-th="Category"><span class="categ js">DB</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/common.js" target="_blank">common.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, <a href="https://modernizr.com/" target="_blank">Modernizr</a></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/common.js" target="_blank">SQL</a></td>
+                                    <td data-th="Related Keywords">Oracle11g, <a href="https://github.com/SiroYG/GoodDeV/blob/GoodDeV_Project_CloudFunding/ProjectIMG/0903%20DataTable.jpeg" target="_blank">構造的な設計</a> , <a href="https://github.com/SiroYG/GoodDeV/blob/GoodDeV_Project_CloudFunding/Documents/DB/ER-D_0920.png" target="_blank">DB ERDierGram</a></td>
                                 </tr>
                                 <tr>
                                     <td data-th="Category"><span class="categ js">AWS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/js/main.js" target="_blank">main.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 1, jQuery UI, AJAX</td>
+                                    <td data-th="Source"><a href="http://13.209.47.61:8090/GoodDeV/" target="_blank">AWS Server</a></td>
+                                    <td data-th="Related Keywords">AWS Server 構築, domain 作業 <a href="http://siroyg.shop" target="_blank">http://siroyg.shop</a> </td>
                                 </tr>
                                 <tr>
                                     <td data-th="Category"><span class="categ js">Python</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-KMA/blob/gh-pages/json/meteo.json" target="_blank">WebCrolling</a></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/GoodDeV/tree/GoodDeV_Project_CloudFunding/ProjectFold/Python" target="_blank">WebCrolling</a></td>
                                     <td data-th="Related Keywords">Python, WebCrolling, selenium FrameWork</td>
                                 </tr>
                             </tbody>
