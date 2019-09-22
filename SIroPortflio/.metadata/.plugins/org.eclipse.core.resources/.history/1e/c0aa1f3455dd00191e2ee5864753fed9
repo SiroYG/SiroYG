@@ -381,10 +381,14 @@
                                 </div>
                                 	<p>アンドロイドを使って保護者にアラームなどを提供し、パルスセンサーを通じて心拍数を時々チェックする機能がある。</p>
                                 
-                                   <div class="ui-group">
+                                <ul class="ui-group">
+                             <div class="ui-group">
                                     <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20" target="_blank">Document</a>
-                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20/8)YOLO_Project_System_file" target="_blank">Repos</a>
-                                </div>
+                                    </li>
+                                    <li class="ui-group-item">
+                                        <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/blob/master/SmartPill/1224.1152%EC%82%BC%EC%8B%9C%EC%84%B8%EC%95%8C%EC%A4%80%EC%B5%9C%EC%A2%85.pptx" target="_blank">PPT</a>
+                                   </li>
+                                </ul>
                             </figcaption>
                         </figure>
                     </article>

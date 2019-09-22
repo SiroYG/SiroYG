@@ -381,10 +381,25 @@
                                 </div>
                                 	<p>アンドロイドを使って保護者にアラームなどを提供し、パルスセンサーを通じて心拍数を時々チェックする機能がある。</p>
                                 
-                                   <div class="ui-group">
-                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20" target="_blank">Document</a>
-                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20/8)YOLO_Project_System_file" target="_blank">Repos</a>
-                                </div>
+                                <ul class="ui-group">
+                                    <li class="ui-group-item ui-dropdown-holder">
+                                        <a role="button" id="work3DemoDropdown" class="ui-button ui-dropdown-trigger" href="#" aria-expanded="false" aria-haspopup="true">Demo</a>
+<!--                                         <ul role="menu" class="ui-dropdown" aria-labelledby="work3DemoDropdown"> -->
+<!--                                             <li role="presentation" class="ui-dropdown-item"> -->
+<!--                                                 <a role="menuitem" href="./Portfolio-MovieSite/" target="_blank" tabindex="-1">Main page</a> -->
+<!--                                             </li> -->
+<!--                                             <li role="presentation" class="ui-dropdown-item"> -->
+<!--                                                 <a role="menuitem" href="./Portfolio-MovieSite/movie.html" target="_blank" tabindex="-1">Info page</a> -->
+<!--                                             </li> -->
+<!--                                             <li role="presentation" class="ui-dropdown-item"> -->
+<!--                                                 <a role="menuitem" href="./Portfolio-MovieSite/order.html" target="_blank" tabindex="-1">Order page</a> -->
+<!--                                             </li> -->
+<!--                                         </ul> -->
+                                    </li>
+                                    <li class="ui-group-item">
+                                        <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/blob/master/SmartPill/1224.1152%EC%82%BC%EC%8B%9C%EC%84%B8%EC%95%8C%EC%A4%80%EC%B5%9C%EC%A2%85.pptx" target="_blank">PPT</a>
+                                   </li>
+                                </ul>
                             </figcaption>
                         </figure>
                     </article>
@@ -429,12 +444,22 @@
                                 <tr>
                                     <td data-th="Category"><span class="categ js"> DB </span></td>
                                     <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/SiroMusicPlayer/KakaoTalk_20190605_104044225.png" target="_blank">ER Dier</a></td>
-                                    <td data-th="Related Keywords">Oracle 11g, DB DierGram</td>
+                                    <td data-th="Related Keywords">Oracle 11g, jQuery</td>
                                 </tr>
                                 <tr>
-                                    <td data-th="Category"><span class="categ css">Java</span></td>
-                                    <td data-th="Source"><a href="#" target="_blank">Pure Java</a></td>
-                                    <td data-th="Related Keywords">Java</td>
+                                    <td data-th="Category"><span class="categ css">SCSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Skeletabs/blob/master/src/scss/skeletabs.core.scss" target="_blank">skeletabs.core.scss</a></td>
+                                    <td data-th="Related Keywords">CSS, Sass</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">SCSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Skeletabs/blob/master/src/scss/skeletabs.animation.scss" target="_blank">skeletabs.animation.scss</a></td>
+                                    <td data-th="Related Keywords">CSS, Sass, CSS3 animation</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">SCSS</span></td>
+                                    <td data-th="Source"><a href="https://github.com/findawayer/Skeletabs/blob/master/src/scss/skeletabs.theme.default.scss" target="_blank">skeletabs.theme.default.scss</a></td>
+                                    <td data-th="Related Keywords">CSS, Sass</td>
                                 </tr>
                             </tbody>
                         </table>
