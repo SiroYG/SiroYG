@@ -382,11 +382,32 @@
                                 	<p>アンドロイドを使って保護者にアラームなどを提供し、パルスセンサーを通じて心拍数を時々チェックする機能がある。</p>
                                 
                                    <div class="ui-group">
-                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20" target="_blank">Document</a>
-                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/Project%20Yolo%20/8)YOLO_Project_System_file" target="_blank">Repos</a>
+                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/tree/master/SmartPill/Docu" target="_blank">Work pic</a>
+                                    <a role="button" class="ui-button" href="https://github.com/SiroYG/EngineerSiro/blob/master/SmartPill/1224.1152%EC%82%BC%EC%8B%9C%EC%84%B8%EC%95%8C%EC%A4%80%EC%B5%9C%EC%A2%85.pptx" target="_blank">PPT</a>
                                 </div>
                             </figcaption>
                         </figure>
+                        <table class="gallery-table">
+                            <thead>
+                                <tr>
+                                    <th class="gallery-table-col category">Category</th>
+                                    <th class="gallery-table-col source">Source</th>
+                                    <th class="gallery-table-col keywords">Related keywords</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td data-th="Category"><span class="categ js"> DB </span></td>
+                                    <td data-th="Source"><a href="https://github.com/SiroYG/EngineerSiro/blob/master/SiroMusicPlayer/KakaoTalk_20190605_104044225.png" target="_blank">ER Dier</a></td>
+                                    <td data-th="Related Keywords">Oracle 11g, DB DierGram</td>
+                                </tr>
+                                <tr>
+                                    <td data-th="Category"><span class="categ css">Java</span></td>
+                                    <td data-th="Source"><a href="#" target="_blank">Pure Java</a></td>
+                                    <td data-th="Related Keywords">Java</td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </article>
 
                     <!-- 포트폴리오 엔트리: MusicPlayer.Java -->
