@@ -309,42 +309,7 @@
                                 </div>
                             </figcaption>
                         </figure>
-                        <table class="gallery-table">
-                            <thead>
-                                <tr>
-                                    <th class="gallery-table-col category">Category</th>
-                                    <th class="gallery-table-col source">Source</th>
-                                    <th class="gallery-table-col keywords">Related keywords</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td data-th="Category"><span class="categ html">HTML</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-SAC/blob/gh-pages/index.html" target="_blank">index.html</a></td>
-                                    <td data-th="Related Keywords">HTML5, ARIA, SVG</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-SAC/blob/gh-pages/scss/bootstrap-theme.scss" target="_blank">bootstrap-custom.css</a></td>
-                                    <td data-th="Related Keywords">Responsive, Bootstrap 4</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-SAC/blob/gh-pages/scss/style.scss" target="_blank">style.scss</a></td>
-                                    <td data-th="Related Keywords">CSS3, Sass, Compass</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ css">CSS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-SAC/tree/gh-pages/scss/partials" target="_blank">Sass partials</a></td>
-                                    <td data-th="Related Keywords">CSS3, Sass, Compass, Responsive</td>
-                                </tr>
-                                <tr>
-                                    <td data-th="Category"><span class="categ js">JS</span></td>
-                                    <td data-th="Source"><a href="https://github.com/findawayer/Portfolio-SAC/blob/gh-pages/js/main.js" target="_blank">main.js</a></td>
-                                    <td data-th="Related Keywords">JavaScript, jQuery 3, <a href="http://kenwheeler.github.io/slick/" target="_blank">slick</a></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                       
                     </article>
 
                     <!-- 포트폴리오 엔트리: 욜로 여행예약 사이트 -->
@@ -417,7 +382,7 @@
                     <article role="article" id="work3" class="gallery-item" data-animation="fade-left">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example3.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example5.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title">お年寄りと在宅患者のためのSmart薬箱</h3>
@@ -519,7 +484,7 @@
                     <article role="article" id="work3" class="gallery-item" data-animation="fade-right">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example4.png" alt="스켈레탭스의 데모" aria-describedby="work4Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example6.png" alt="스켈레탭스의 데모" aria-describedby="work4Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title">MusicPlayer.Java</h3>
@@ -577,17 +542,17 @@
                     </article>
                     
                         <!-- 포트폴리오 엔트리: Smart Bank -->
-                    <article role="article" id="work3" class="gallery-item" data-animation="fade-left">
+                    <article role="article" id="work5" class="gallery-item" data-animation="fade-left">
                         <figure role="group" class="gallery-figure">
                             <div class="gallery-image">
-                                <img class="gallery-image-thumb" src="/siro/resources/img/example3.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
+                                <img class="gallery-image-thumb" src="/siro/resources/img/example7.png" alt="오리지널 영화 사이트" aria-describedby="work3Description">
                             </div>
                             <figcaption class="gallery-caption">
                                 <h3 class="gallery-title"> Smart Bank System</h3>
                                 <ul class="gallery-spec">
                                     <li class="gallery-spec-item"><strong class="gallery-spec-key">開発期間</strong> <span class="gallery-spec-value"> 1ヶ月</span></li>
                                     <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> 1人＿SoloProject </span>             </ul>
-                                <div id="work3Description">
+                                <div id="work5Description">
                                     <p>バンキングシステムを模倣して作ったプロジェクト バンキングシステムの主要機能は他のバンキングシステムと同じである。 口座開設、振込み、QnA掲示板などの機能を持ち、admin/admin(固有アカウント)でいったん特定されているIDにアクセスすればadminページにアクセスすることができる。 アドミンのアカウントでは、答文、融資承認などの機能が可能になっているbankシステム。</p>
                                     <p>SPRING FRAMEWORKベースのWebプロジェクトであり、Oracle 11g DBとJavaを含め、JavaScript、jQuery、ajaxなどの技術を使用した。</p>
                                 </div>
