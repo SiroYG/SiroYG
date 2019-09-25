@@ -3,6 +3,9 @@
 	<item key="J2EE_EXPORT_OVERWRITE" value="false"/>
 	<item key="J2EE_EXPORT_SOURCE" value="false"/>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="/Users/SiroYG/Documents/Develpe/Portfolio.war"/>
+		<item value="/Users/SiroYG/Documents/Develpe/warfile/Portfolio.war"/>
+		<item value="/Users/SiroYG/Documents/취직/Portfolio.war"/>
 		<item value="/Users/SiroYG/Documents/취직/ROOT.war"/>
 		<item value="/Users/SiroYG/Documents/조용경/Portfolio.war"/>
 	</list>

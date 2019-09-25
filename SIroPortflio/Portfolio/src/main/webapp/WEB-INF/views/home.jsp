@@ -211,9 +211,9 @@
                         <span class="primary">About myself</span>
                     </h2>
                     <div class="section-content">
-                        <p>自分の道を切り開いている、チョ・ヨンギョンと申します。</p>
-                        <p>私は技術力を持つエンジニアになるために,二度の機関教育と多様なプロジェクト経験を通じて技術を会得してきました。</p>
-                        <p>自ら生産者であり同時に消費者として積み上げた経験は、クライアントにもっと繊細で直接的で、実用的なサービスを提供していきます。</p>
+                        <p>自分の道を切り開いて見せる！チョヨンギョンです。</p>
+                        <p>私は技術力を持つエンジニアになるために,二度の機関教育と多様なプロジェクト経験を通じて必要な能力を積み上げました。</p>
+                        <p>自らが生産者であり同時に消費者として積み上げた経験は、クライアントにもっと繊細で直接的で、実用的なサービスを提供していきます。</p>																																																																										
                         <p>私が追求するプログラミングは、ソリューションに向けた最も直接的で効率的なアプローチを絶えず追求し、学んでいくという私のモットーを盛り込んでいる。</p>
                         <p>多様な技術に接して利用者に技術力を提供して具現するのが私の自負心です。</p>
                     </div>
@@ -326,7 +326,7 @@
             						 <li class="gallery-spec-item"><strong class="gallery-spec-key">参加人数</strong> <span class="gallery-spec-value">５人</span></li>
                                 </ul>
                                 <div id="work2Description">
-                                    <p>テーマ基盤の宿泊予約サイトがあまり少なく作ったウェブサイト、YOLOと呼ばれる検索に気を使わないyolo族と、早く休暇を願う忙しいサラリーマンをターゲットにしています。</p>
+                                    <p>テーマ基盤の宿泊予約サイトがあまり少なく作ったウェブサイトYORO族と呼ばれる人と、早く休暇を願う忙しいサラリーマンをターゲットにしています。</p>
                                     <p>oracle 11gのjdbcを使用してデータベースを連動し、グーグルマップなどのAPIを使用して地図機能などを追加しました。</p>
                                 </div>
                                 <div class="ui-group">
@@ -376,7 +376,7 @@
                                     <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> IoT, Android Corder,3D Modeling</span></li>            						 <li class="gallery-spec-item"><strong class="gallery-spec-key">参加人数</strong> <span class="gallery-spec-value">５人</span></li>                               
                                 </ul>
                                 <div id="work3Description">
-                                    <p>一人暮らしの老人、患者のために薬を飲む時間をアラームでチェックし、投薬の有無を保護者にアラームを送るサービス。</p>
+                                    <p>一人暮らしの老人、患者のために薬を飲む時間をアラームで知らせとともに、投薬の有無を保護者に送るサービス。</p>
                                     <p>3D modelingを使用して薬筒を作って、薬筒の中にいる多くのセンサーが投薬を確認する。</p>
                                 </div>
                                 	<p>アンドロイドを使って保護者にアラームなどを提供し、パルスセンサーを通じて心拍数を時々チェックする機能がある。</p>
@@ -430,8 +430,8 @@
             						 <li class="gallery-spec-item"><strong class="gallery-spec-key">参加人数</strong> <span class="gallery-spec-value">1人(SoloProject)</span></li>
                              </ul>
                                 <div id="work4Description">
-                                    <p>簡単なメモ機能と特定フォルダーの中に保存された音楽がプレーできる機能を持つCUIプログラム。メモを管理でき、プレーリストのあるその他のミュージックプレーヤーのように、音楽追加、音楽削除、プレイリストの登録、削除などの機能を持っている。</p>
-                                    <p>Oracle 11g jdbc DBとJavaのロジックを使用しており、音楽は位置値を通じて保存する。 簡単な音楽プレーヤーとして機能を持ったプログラムである。</p>
+                                    <p>メモの管理可能、プレーリスト機能がある他のミュージックプレーヤーのように、音楽追加、音楽削除、プレイリストの登録、削除などの機能を持っている。</p>
+                                    <p>Oracle 11g jdbc DBとJavaのロジックを使用しており、音楽は位置値を通じて保存する。 簡単な音楽プレーヤーとしての機能を持ったプログラムである。</p>
                                 </div>
                                 <ul class="ui-group">
                                     <li class="ui-group-item ui-dropdown-holder">
@@ -477,7 +477,7 @@
                                     <li class="gallery-spec-item"><strong class="gallery-spec-key">担当分野</strong> <span class="gallery-spec-value"> 1人＿SoloProject </span>             </ul>
                                 <div id="work5Description">
                                     <p>バンキングシステムを模倣して作ったプロジェクト バンキングシステムの主要機能は他のバンキングシステムと同じである。 口座開設、振込み、QnA掲示板などの機能を持ち、admin/admin(固有アカウント)でいったん特定されているIDにアクセスすればadminページにアクセスすることができる。 アドミンのアカウントでは、答文、融資承認などの機能が可能になっているbankシステム。</p>
-                                    <p>SPRING FRAMEWORKベースのWebプロジェクトであり、Oracle 11g DBとJavaを含め、JavaScript、jQuery、ajaxなどの技術を使用した。</p>
+                                    <p>SPRING FRAMEWORKベースのWebプロジェクトであり、Oracle 11g DBとJavaを含め、JavaScript、jQuery、ajaxなどの技術を使える。</p>
                                 </div>
                                 <ul class="ui-group">
                                     <li class="ui-group-item ui-dropdown-holder">
